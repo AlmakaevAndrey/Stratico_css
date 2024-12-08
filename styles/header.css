@@ -145,7 +145,7 @@
 
 @media(max-width: 750px) {
     .header__inner{
-        padding: 0;
+        padding: 10px;
     }
     .menu__btn {
         width: 200px;
